@@ -1,2 +1,6 @@
 # Pluto-PC-GMM-Data
-Wavelength and average IF data for Pluto using PC-GMM 
+
+The repostity contains wavelength and average IF data for Pluto using PC-GMM. The .txt files are the meta data behind the Fig. 8 in Emran et. al. (2022), PSJ.
+
+•	The wavelength .txt file has all wavelengths information (in micron) for each classes column wise; rows are the wavelengths (in micron).
+•	The avg IF .txt file has I/F values for each classes column wise; rows are the I/F values for corresponding wavelengths.
